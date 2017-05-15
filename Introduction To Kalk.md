@@ -1,4 +1,4 @@
-Kalk [VER IR U2]
+Kalk [v1.01]
 --------------------------------------
 Simple calculator app that is suitable for java beginners!
 --------------------------------------
